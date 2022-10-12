@@ -25,7 +25,10 @@ Here are some ideas to get you started:
 </div>
   
   
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Teitei011" alt="Teitei011" /></a> </p>
+  
 ![Snake animation](https://github.com/Teitei011/Teitei011/blob/output/github-contribution-grid-snake.svg)
+
 
  
  ### [CoronaBrasil](https://covid-brasil.vercel.app/)
