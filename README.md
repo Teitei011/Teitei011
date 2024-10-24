@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Stefan Taiguara
 
-[Junior Research on Scientific Computing Group, São Carlos Institue oh Physics, University of São Paulo, USP, São Carlos, Brazil](https://scg.ifsc.usp.br/members.php)
+
   
   <div align="center">
   <a href="https://github.com/Teitei011">
@@ -26,7 +26,9 @@ Here are some ideas to get you started:
      
 </div>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Teitei011" alt="Teitei011" /></a> </p>
-  
+
+
+  Junior Research on [Scientific Computing Group](https://scg.ifsc.usp.br/members.php), São Carlos Institue oh Physics, University of São Paulo, USP, São Carlos, Brazil
 ![Snake animation](https://github.com/Teitei011/Teitei011/blob/output/github-contribution-grid-snake.svg)
 
 
