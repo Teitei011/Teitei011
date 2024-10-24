@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Stefan Taiguara
 
-
+[Junior Research on Scientific Computing Group, São Carlos Institue oh Physics, University of São Paulo, USP, São Carlos, Brazil](https://scg.ifsc.usp.br/members.php)
   
   <div align="center">
   <a href="https://github.com/Teitei011">
