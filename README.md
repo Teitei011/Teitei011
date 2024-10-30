@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/Teitei011">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Teitei011&&theme=tokyonight" alt="Teitei011" /></p>
 
-  Junior Research at the [Scientific Computing Group](https://scg.ifsc.usp.br/members.php), São Carlos Institue oh Physics, University of São Paulo, USP, São Carlos, Brazil
+  Junior Research at the [Scientific Computing Group](https://scg.ifsc.usp.br/members.php), São Carlos Institue of Physics, University of São Paulo, USP, São Carlos, Brazil
 ![Snake animation](https://github.com/Teitei011/Teitei011/blob/output/github-contribution-grid-snake.svg)
 
 
